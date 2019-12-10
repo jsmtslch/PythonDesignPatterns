@@ -23,3 +23,4 @@ class CityDuck(GentleDuck):
 	def go_home(self):
 		print("Going to City")
 		
+
