@@ -24,4 +24,4 @@ class LightStrategyAbstract(object):
 
 class LightOnStrategy(LightStrategyAbstract):
 	def light_on(self):
-		print("Ligh on for 10 seconds")
+		print("Light on for 10 seconds")
